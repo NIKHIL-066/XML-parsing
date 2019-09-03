@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<home>
+<table>
+  <desk id="1">
+  <name>African Coffee Table</name>
+  <width>80</width>
+  <length>120</length>
+  </desk>
+  <desk id="2">
+  <name>American Coffee Table</name>
+  <width>90</width>
+  <length>130</length>
+  </desk>
+  <desk xmlns="www.w3c.org/xml">
+  <title>Asian Coffee Table</title>
+  <space>10</space>
+  <length>12</length>
+  </desk>
+</table>
+</home>
+</root>
